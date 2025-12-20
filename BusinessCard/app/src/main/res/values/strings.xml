@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">James Ambenge</string>
+    <string name="title">Android Developer</string>
+    <string name="social_media_handle">@JamesAmbenge</string>
+    <string name="email_address">james@codinghappensevery.day</string>
+</resources>

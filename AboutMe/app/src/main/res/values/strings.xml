@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">James</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_about">About</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+
+    <string name="button_hobbies">Hobbies</string>
+    <string name="button_contact">Contact</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_biography">Biography</string>
+    <string name="title_hobbies">My Hobbies</string>
+    <string name="title_contact">Contact Information</string>
+
+    <string name="toast_contact">Going to Contact...</string>
+
+    <string name="text_biography">
+        James is from East Africa and currently a student pursing a Masters degree in Computer Science.\n\n
+        He earned his Master of Public Administration from Pace University and Bachelor of Science in Accounting from Wilmington University.\n\n
+        He currently serves as Deputy Director of Compliance for the City of New York, and previously enlisted in the United States Air Force where he managed a $570M fleet across five states, oversaw $11M in equipment and facilities, supervised 82 maintenance staff, and applied trend analysis to develop and administer a $45M annual budget, depot maintenance plans, and preventive maintenance schedules that extended fleet life.\n\n
+        In his additional role as Unit Deployment and Security Manager, he overhauled the squadron recall process to ensure 100% accountability of over 420 members—cutting Major Accident Response Exercise (MARE) reporting time by 50%—while executing monthly anti-terrorism measures that were recognized as the #1 program in the Air Mobility Command in 2009.\n\n
+     </string>
+    <string name="text_hobbies">
+        My hobbies include:\n\n
+        1. Reading tech blogs and articles to stay updated with the latest trends in technology.\n\n
+        2. Coding and working on personal projects to enhance my programming skills.\n\n
+        3. Playing football and basketball to stay active and enjoy team sports.\n\n
+        4. Traveling and exploring new places to experience different cultures and cuisines.\n\n
+        5. Listening to music and attending live concerts whenever possible.\n
+    </string>
+
+    <string name="contact_email">Email: james@coding-happens-every.day</string>
+    <string name="contact_phone">Phone: +254 000 000 000</string>
+    <string name="contact_address">Address: Vihiga, Kenya</string>
+
+    </resources>
